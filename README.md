@@ -8,6 +8,6 @@ The WannaCry reverse engineering involved a combination of tools and methodologi
 
 ### [See the full article](https://github.com/ItayYogev/Wannacry-Reverse-Engineering/blob/main/wannacry%20reverse%20engineering.pdf)
 
-![WannaCry](https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=679&name=WannaCry.jpg)
+[![WannaCry](https://www.novabackup.com/hs-fs/hubfs/WannaCry.jpg?width=679&name=WannaCry.jpg)](https://github.com/ItayYogev/Wannacry-Reverse-Engineering/blob/main/wannacry%20reverse%20engineering.pdf)
 
 *Click the image above to access the full article.*
